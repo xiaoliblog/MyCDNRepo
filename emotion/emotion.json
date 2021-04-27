@@ -1,0 +1,866 @@
+{
+    "Heo": {
+    "type": "image",
+    "container": [
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/再见.png\">", "text": "heo-再见" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/微笑.png\">", "text": "heo-微笑" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/亲亲.png\">", "text": "heo-亲亲" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/愤怒.png\">", "text": "heo-愤怒" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/惊吓.png\">", "text": "heo-惊吓" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/尴尬.png\">", "text": "heo-尴尬" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/捂嘴笑.png\">", "text": "heo-捂嘴笑" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/捂脸.png\">", "text": "heo-捂脸" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/生病.png\">", "text": "heo-生病" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/绿帽.png\">", "text": "heo-绿帽" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/鼓掌.png\">", "text": "heo-鼓掌" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/抠鼻.png\">", "text": "heo-抠鼻" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/感动.png\">", "text": "heo-感动" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/吐血.png\">", "text": "heo-吐血" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/鬼脸.png\">", "text": "heo-鬼脸" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/擦汗.png\">", "text": "heo-擦汗" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/惊讶.png\">", "text": "heo-惊讶" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/恶心.png\">", "text": "heo-恶心" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/禁言.png\">", "text": "heo-禁言" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/睡觉.png\">", "text": "heo-睡觉" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/笑哭.png\">", "text": "heo-笑哭" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/思考.png\">", "text": "heo-思考" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/疑问.png\">", "text": "heo-疑问" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/奋斗.png\">", "text": "heo-奋斗" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/耍酷.png\">", "text": "heo-耍酷" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/吵架.png\">", "text": "heo-吵架" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/眩晕.png\">", "text": "heo-眩晕" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哭泣.png\">", "text": "heo-哭泣" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/开心.png\">", "text": "heo-开心" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/害羞.png\">", "text": "heo-害羞" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/喜欢.png\">", "text": "heo-喜欢" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/烦恼.png\">", "text": "heo-烦恼" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/爆炸.png\">", "text": "heo-爆炸" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熬夜.png\">", "text": "heo-熬夜" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/吃瓜.png\">", "text": "heo-吃瓜" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/阴险.png\">", "text": "heo-阴险" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头.png\">", "text": "heo-狗头" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽.png\">", "text": "heo-滑稽" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/被打.png\">", "text": "heo-被打" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哈士奇.png\">", "text": "heo-哈士奇" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/大笑.png\">", "text": "heo-大笑" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/加班.png\">", "text": "heo-加班" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/唱歌.png\">", "text": "heo-唱歌" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/纠结.png\">", "text": "heo-纠结" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/发红包.png\">", "text": "heo-发红包" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/送福.png\">", "text": "heo-送福" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/牛年进宝.png\">", "text": "heo-牛年进宝" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头围脖.png\">", "text": "heo-狗头围脖" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头花.png\">", "text": "heo-狗头花" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头草.png\">", "text": "heo-狗头草" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/头秃.png\">", "text": "heo-头秃" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头胖次.png\">", "text": "heo-狗头胖次" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/我看好你.png\">", "text": "heo-我看好你" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好的.png\">", "text": "heo-好的" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好奇.png\">", "text": "heo-好奇" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/偷偷看.png\">", "text": "heo-偷偷看" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/危险.png\">", "text": "heo-危险" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/小丑.png\">", "text": "heo-小丑" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/引起不适.png\">", "text": "heo-引起不适" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽喝水.png\">", "text": "heo-滑稽喝水" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫.png\">", "text": "heo-熊猫" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫唱歌.png\">", "text": "heo-熊猫唱歌" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/打牌.png\">", "text": "heo-打牌" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哈士奇失去意识.png\">", "text": "heo-哈士奇失去意识" },
+        { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/应援.png\">", "text": "heo-应援" }
+    ]
+  },
+  "Emoji": {
+    "type": "emoji",
+    "container": [
+      { "icon": "😂", "text": "" },
+      { "icon": "😀", "text": "" },
+      { "icon": "😅", "text": "" },
+      { "icon": "😊", "text": "" },
+      { "icon": "🙂", "text": "" },
+      { "icon": "🙃", "text": "" },
+      { "icon": "😌", "text": "" },
+      { "icon": "😍", "text": "" },
+      { "icon": "😘 ", "text": "" },
+      { "icon": "😜", "text": "" },
+      { "icon": "😝", "text": "" },
+      { "icon": "😏", "text": "" },
+      { "icon": "😒", "text": "" },
+      { "icon": "🙄", "text": "" },
+      { "icon": "😳 ", "text": "" },
+      { "icon": "😡", "text": "" },
+      { "icon": "😔", "text": "" },
+      { "icon": "😫", "text": "" },
+      { "icon": "😱", "text": "" },
+      { "icon": "😭", "text": "" },
+      { "icon": "💩", "text": "" },
+      { "icon": "👻", "text": "" },
+      { "icon": "🙌", "text": "" },
+      { "icon": "🖕", "text": "" },
+      { "icon": "👍", "text": "" },
+      { "icon": "👫", "text": "" },
+      { "icon": "👬", "text": "" },
+      { "icon": "👭", "text": "" },
+      { "icon": "🌚", "text": "" },
+      { "icon": "🌝", "text": "" },
+      { "icon": "🙈", "text": "" },
+      { "icon": "💊", "text": "" },
+      { "icon": "😶", "text": "" },
+      { "icon": "🙏", "text": "" },
+      { "icon": "🍦", "text": "" },
+      { "icon": "🍉", "text": "" },
+      { "icon": "😣", "text": "" }
+    ]
+  },
+  "BiliBili": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png\">", "text": "tv_doge" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/a8111ad55953ef5e3be3327ef94eb4a39d535d06.png\">", "text": "tv_亲亲" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/bb690d4107620f1c15cff29509db529a73aee261.png\">", "text": "tv_偷笑" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/180129b8ea851044ce71caf55cc8ce44bd4a4fc8.png\">", "text": "tv_再见" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png\">", "text": "tv_冷漠" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/34ba3cd204d5b05fec70ce08fa9fa0dd612409ff.png\">", "text": "tv_发怒" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/34db290afd2963723c6eb3c4560667db7253a21a.png\">", "text": "tv_发财" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png\">", "text": "tv_可爱" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/09dd16a7aa59b77baa1155d47484409624470c77.png\">", "text": "tv_吐血" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png\">", "text": "tv_呆" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/9f996894a39e282ccf5e66856af49483f81870f3.png\">", "text": "tv_呕吐" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/241ee304e44c0af029adceb294399391e4737ef2.png\">", "text": "tv_困" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/1f0b87f731a671079842116e0991c91c2c88645a.png\">", "text": "tv_坏笑" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/093c1e2c490161aca397afc45573c877cdead616.png\">", "text": "tv_大佬" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/23269aeb35f99daee28dda129676f6e9ea87934f.png\">", "text": "tv_大哭" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/d04dba7b5465779e9755d2ab6f0a897b9b33bb77.png\">", "text": "tv_委屈" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/a37683fb5642fa3ddfc7f4e5525fd13e42a2bdb1.png\">", "text": "tv_害羞" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png\">", "text": "tv_尴尬" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png\">", "text": "tv_微笑" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/90cf159733e558137ed20aa04d09964436f618a1.png\">", "text": "tv_思考" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">", "text": "tv_惊吓" }
+    ]
+  },
+  "阿鲁": {
+    "name": "aru",
+    "type": "image",
+    "container": [
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/despise.png\">",
+        "text": "鄙视"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/knife.png\">",
+        "text": "插刀"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/pouting.png\">",
+        "text": "亲嘴"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/shutup.png\">",
+        "text": "闭嘴"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/unhappy.png\">",
+        "text": "不开心"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/discovertruth.png\">",
+        "text": "发现真相"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/shit.png\">",
+        "text": "便便"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/distressed.png\">",
+        "text": "烦恼"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/shy.png\">",
+        "text": "捂脸"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/speechless.png\">",
+        "text": "无语"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/confuse.png\">",
+        "text": "迷惑"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/frown.png\">",
+        "text": "皱眉"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/proud.png\">",
+        "text": "得意"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/cheer.png\">",
+        "text": "欢呼"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/meditation.png\">",
+        "text": "沉思"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/diving.png\">",
+        "text": "潜水"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/cryingface.png\">",
+        "text": "掩面哭泣"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/lurking.png\">",
+        "text": "潜伏"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/thumb.png\">",
+        "text": "大拇指"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/smile.png\">",
+        "text": "微笑"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/clap.png\">",
+        "text": "拍掌"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/envious.png\">",
+        "text": "眼馋"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/surrender.png\">",
+        "text": "投降"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/bigeye.png\">",
+        "text": "大眼睛"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/nose.png\">",
+        "text": "抠鼻"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/sweat.png\">",
+        "text": "流汗"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/flower.png\">",
+        "text": "小花花"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/crying.png\">",
+        "text": "流泪"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/spit.png\">",
+        "text": "吐"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/surprised.png\">",
+        "text": "吃惊"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/blood.png\">",
+        "text": "一滩血"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/blood2.png\">",
+        "text": "吐血"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/shy2.png\">",
+        "text": "脸红"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/angry.png\">",
+        "text": "生气"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/nomatter.png\">",
+        "text": "无所谓"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/dead.png\">",
+        "text": "死翘翘"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/insidious.png\">",
+        "text": "阴险"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/tongue.png\">",
+        "text": "吐舌"
+      }
+
+    ]
+  },
+  "蛆音娘": {
+    "name": "quyin",
+    "type": "image",
+    "container": [
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/hematemesis.png\">",
+          "text": "吐血"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/1huaji.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/amazing.png\">",
+          "text": "吃惊"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/angry.png\">",
+          "text": "生气"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/cry.png\">",
+          "text": "哭泣"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/die.png\">",
+          "text": "die"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/doubt.png\">",
+          "text": "疑问"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/feizao.png\">",
+          "text": "肥皂"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/fue.png\">",
+          "text": "扶额"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/heng.png\">",
+          "text": "哼"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/laughing.png\">",
+          "text": "大笑"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/look.png\">",
+          "text": "偷看"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/maimeng.png\">",
+          "text": "卖萌"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/OK.png\">",
+          "text": "OK！"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/scare.png\">",
+          "text": "吓死宝宝惹"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/shakinghead.png\">",
+          "text": "摇头"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/sleep.png\">",
+          "text": "睡觉"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/speechless.png\">",
+          "text": "无语"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/watermaleon.png\">",
+          "text": "吃瓜"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/witty.png\">",
+          "text": "机智"
+      }
+    ]
+  },
+  "滑稽":{
+    "type": "image",
+    "name": "tieba",
+    "container":[
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb1.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb2.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb3.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb4.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb5.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb6.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb7.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb8.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb9.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb10.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb11.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb12.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb13.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb14.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb15.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb17.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb18.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb19.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb20.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb23.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb24.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb25.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb26.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb27.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb28.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb29.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb30.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb31.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb32.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb33.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb34.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb35.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb36.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb37.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb38.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb39.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb40.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb41.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb42.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb43.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb44.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb45.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb46.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb47.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb48.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb49.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb50.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb51.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb52.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb53.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb54.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb55.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb56.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb57.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb58.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb59.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb60.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb61.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb62.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb63.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb64.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb65.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb66.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb67.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb68.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb69.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb70.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb71.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb72.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb73.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb74.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb75.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb76.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb77.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb78.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb79.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb80.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb81.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb82.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb83.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb84.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb85.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb86.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb87.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb88.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb89.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb90.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb91.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb92.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb93.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb94.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb95.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb96.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb97.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb98.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/huaji/Y.tb99.png\">",
+          "text": "滑稽"
+      }
+
+    ]
+
+  },
+  "推特":{
+    "type": "image",
+    "name": "twemoji",
+    "container":[
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/smile.png\">",
+        "text": "微笑"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/tongue.png\">",
+        "text": "吐舌"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/tilted.png\">",
+        "text": "歪头"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/tiaomei.png\">",
+        "text": "挑眉"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/shy.png\">",
+        "text": "害羞"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/sweat.png\">",
+        "text": "流汗"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/proud.png\">",
+        "text": "得意"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/uncomfort.png\">",
+        "text": "难受"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/smilecry.png\">",
+        "text": "笑哭"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/love.png\">",
+        "text": "喜欢"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/notalk.png\">",
+        "text": "不说话"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/happy.png\">",
+        "text": "开心"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/frightened.png\">",
+        "text": "惊恐"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/dtongue.png\">",
+        "text": "吐舌"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/cry.png\">",
+        "text": "哭泣"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/cool.png\">",
+        "text": "炫酷"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/bigsmile.png\">",
+        "text": "红脸笑"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/ok.png\">",
+        "text": "可以"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/kiss.png\">",
+        "text": "亲亲"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/angry.png\">",
+        "text": "生气"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/family.png\">",
+        "text": "家庭"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/congratulate.png\">",
+        "text": "祝贺"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/gift.png\">",
+        "text": "礼物"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/prayer.png\">",
+        "text": "祈祷"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/star.png\">",
+        "text": "星星"
+      }
+    ]
+  }
+}
